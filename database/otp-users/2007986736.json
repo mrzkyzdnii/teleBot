@@ -1,0 +1,18 @@
+{
+  "number": "2007986736",
+  "name": "nanas",
+  "orders": [],
+  "deposits": [
+    {
+      "amount": 1000,
+      "date": 1789378883686,
+      "invoiceId": "44001534",
+      "refNo": "INTR6aa7c111693a0",
+      "method": "QRIS Interactive (AutoGoPay)"
+    }
+  ],
+  "saldo": 1000,
+  "totalDeposit": 1000,
+  "totalOrders": 0,
+  "registeredAt": 1789378779312
+}

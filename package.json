@@ -1,0 +1,22 @@
+{
+  "name": "gemini",
+  "version": "1.0.0",
+  "description": "",
+  "main": "config.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "type": "module",
+  "dependencies": {
+    "axios": "^1.20.0",
+    "chalk": "^6.0.0",
+    "grammy": "^1.46.0",
+    "moment-timezone": "^0.6.3"
+  }
+}
